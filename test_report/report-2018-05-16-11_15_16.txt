@@ -1,0 +1,13 @@
+test_add (test_mathfunc.TestMathFunc)
+²âÊÔadd(a,b)º¯Êı ... ok
+test_divide (test_mathfunc.TestMathFunc)
+²âÊÔdivide(a,b)º¯Êı ... ok
+test_minus (test_mathfunc.TestMathFunc)
+²âÊÔ minus(a,b)º¯Êı ... ok
+test_multi (test_mathfunc.TestMathFunc)
+²âÊÔmulti(a,b)º¯Êı ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.010s
+
+OK
